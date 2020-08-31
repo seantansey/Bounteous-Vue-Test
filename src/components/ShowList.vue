@@ -43,9 +43,6 @@ export default {
         console.log(e)
       }
     },
-    toggleDetailView() {
-      this.detailView = !this.detailView
-    }
   },
 }
 </script>
